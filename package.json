@@ -1,0 +1,25 @@
+{
+  "name": "11ty-1159",
+  "description": "Nunjucks not picking up data on successful fetch.",
+  "version": "1.0.0",
+  "author": "Peter deHaan <peter@deseloper.com> (https://about.me/peterdehaan)",
+  "bugs": {
+    "url": "https://github.com/pdehaan/11ty-1159/issues"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^0.10.0",
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/pdehaan/11ty-1159#readme",
+  "keywords": [],
+  "license": "MPL-2.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdehaan/11ty-1159.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

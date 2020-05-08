@@ -1,0 +1,10 @@
+<h1>CAT Rules</h1>
+<div>
+    <ul>
+        {% for release in npm.collected.metadata.releases %}
+            <li>
+                {{ release.from | localeDate }} &mdash; {{ release.to | localeDate }}: {{ release.count }}
+            </li>
+        {% endfor %}
+    </ul>
+</div>
