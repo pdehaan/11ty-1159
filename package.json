@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@11ty/eleventy": "^0.10.0",
-    "axios": "^0.19.2"
+    "axios": "^0.21.1"
   },
   "devDependencies": {},
   "homepage": "https://github.com/pdehaan/11ty-1159#readme",
