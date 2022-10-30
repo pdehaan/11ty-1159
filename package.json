@@ -7,7 +7,7 @@
     "url": "https://github.com/pdehaan/11ty-1159/issues"
   },
   "dependencies": {
-    "@11ty/eleventy": "^0.10.0",
+    "@11ty/eleventy": "^1.0.2",
     "axios": "^0.21.2"
   },
   "devDependencies": {},
